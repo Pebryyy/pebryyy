@@ -82,7 +82,7 @@
 </head>
 <body>
   <div class="card">
-    <img src="blob:https://web.whatsapp.com/c8737a8f-1fd4-4c96-b3b7-a8f1f31ed034" alt="Foto Pebry" class="profile-img" />
+    <img src="myphoto.jpg" />
     <h1 class="glow">Pebry Hamzani</h1>
     <p>Mahasiswa Program Studi <strong>Matematika</strong></p>
   </div>
